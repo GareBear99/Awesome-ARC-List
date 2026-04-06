@@ -1,0 +1,92 @@
+[
+  {
+    "name": "ARC Operator Stack",
+    "url": "https://github.com/GareBear99/awesome-arc-plugins",
+    "owner": "GareBear99",
+    "repo": "awesome-arc-plugins",
+    "description": "Umbrella Codex plugin bundle for Gary Doman's ARC stack: deterministic boot, receipts, branch-aware execution, Lucid Terminal routing, and LuciferAI_Local integration.",
+    "category": "ARC Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/arc-operator-stack/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "ARC Core",
+    "url": "https://github.com/GareBear99/ARC-Core",
+    "owner": "GareBear99",
+    "repo": "ARC-Core",
+    "description": "Kernel authority layer for receipts, event schema, state tree, branch engine, replay, rollback, and proof-backed execution.",
+    "category": "Featured Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/arc-core/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "Lucid Terminal",
+    "url": "https://github.com/GareBear99/lucid-terminal",
+    "owner": "GareBear99",
+    "repo": "lucid-terminal",
+    "description": "Deterministic operator interface for routing commands, visualizing runtime state, and enforcing authority-gated execution.",
+    "category": "Featured Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/lucid-terminal/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "LuciferAI_Local",
+    "url": "https://github.com/GareBear99/LuciferAI_Local",
+    "owner": "GareBear99",
+    "repo": "LuciferAI_Local",
+    "description": "Local reasoning and proposal layer designed for offline workflows, controlled execution, and future ARC-integrated persistent agent loops.",
+    "category": "Featured Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/luciferai-local/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "Synth Shell",
+    "url": "https://github.com/GareBear99/Proto-Synth_Grid_Engine",
+    "owner": "GareBear99",
+    "repo": "Proto-Synth_Grid_Engine",
+    "description": "Visualization and embodiment layer for rendering ARC state, branches, and operator-facing system cognition surfaces.",
+    "category": "Featured Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/synth-shell/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "ARC Turbo OS",
+    "url": "https://github.com/GareBear99/ARC-Turbo-OS",
+    "owner": "GareBear99",
+    "repo": "ARC-Turbo-OS",
+    "description": "Seed-rooted, branch-aware runtime concept focused on reusable computation graphs and jump-to-resolved-output execution.",
+    "category": "Research Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/arc-turbo-os/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "Arc-RAR",
+    "url": "https://github.com/GareBear99/Arc-RAR",
+    "owner": "GareBear99",
+    "repo": "Arc-RAR",
+    "description": "Portable archive and transport layer concept for moving ARC-ready packages and runtime payloads across systems.",
+    "category": "Utility Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/arc-rar/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "Proto-Synth Grid Engine",
+    "url": "https://github.com/GareBear99/Proto-Synth_Grid_Engine",
+    "owner": "GareBear99",
+    "repo": "Proto-Synth_Grid_Engine",
+    "description": "Virtual simulated physics capacity-weighted engine and wetware communications grid concept within the broader ARC ecosystem.",
+    "category": "Research Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/proto-synth-grid-engine/.codex-plugin/plugin.json"
+  },
+  {
+    "name": "Seeded Universe Recreation Engine",
+    "url": "https://github.com/GareBear99/Seeded-Universe-Recreation-Engine",
+    "owner": "GareBear99",
+    "repo": "Seeded-Universe-Recreation-Engine",
+    "description": "Seed-based universe reconstruction project focused on deterministic physics, causal evolution, and replayable simulation states.",
+    "category": "Research Stack",
+    "source": "awesome-arc-plugins",
+    "install_url": "https://raw.githubusercontent.com/GareBear99/awesome-arc-plugins/main/plugins/GareBear99/seeded-universe-recreation-engine/.codex-plugin/plugin.json"
+  }
+]
